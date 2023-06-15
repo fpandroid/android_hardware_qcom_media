@@ -1,2 +1,5 @@
 # android_hardware_qcom_media
-hardware/qcom-caf/sdm845/media
+
+For fixing building gts4lv(wifi) devices on Pixel Experience Thirteen (Tiramisu)
+
+Place the contents of this repo in "hardware/qcom-caf/sdm845/media"
